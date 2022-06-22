@@ -22,3 +22,5 @@ php game.php
 ```bash
 ./vendor/bin/phpunit
 ```
+
+Note: Github actions are also connected, so feel free to check test in "Actions" tab
